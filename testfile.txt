@@ -1,1 +1,2 @@
 THis is a first test file.
+Adding this line to test diff command
